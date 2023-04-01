@@ -11,6 +11,7 @@
 		ADFD185229D8852000CA5DD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFD185129D8852000CA5DD2 /* ContentView.swift */; };
 		ADFD185429D8852200CA5DD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADFD185329D8852200CA5DD2 /* Assets.xcassets */; };
 		ADFD185729D8852200CA5DD2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADFD185629D8852200CA5DD2 /* Preview Assets.xcassets */; };
+		ADFD185E29D8C37C00CA5DD2 /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFD185D29D8C37C00CA5DD2 /* Styles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ADFD185129D8852000CA5DD2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADFD185329D8852200CA5DD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADFD185629D8852200CA5DD2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADFD185D29D8C37C00CA5DD2 /* Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ADFD184F29D8852000CA5DD2 /* SwiftUIDesignCodeiOSApp.swift */,
 				ADFD185129D8852000CA5DD2 /* ContentView.swift */,
+				ADFD185D29D8C37C00CA5DD2 /* Styles.swift */,
 				ADFD185329D8852200CA5DD2 /* Assets.xcassets */,
 				ADFD185529D8852200CA5DD2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADFD185E29D8C37C00CA5DD2 /* Styles.swift in Sources */,
 				ADFD185229D8852000CA5DD2 /* ContentView.swift in Sources */,
 				ADFD185029D8852000CA5DD2 /* SwiftUIDesignCodeiOSApp.swift in Sources */,
 			);
