@@ -12,7 +12,7 @@ import SwiftUI
 struct SwiftUIDesignCodeiOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AccountView()
         }
     }
 }
