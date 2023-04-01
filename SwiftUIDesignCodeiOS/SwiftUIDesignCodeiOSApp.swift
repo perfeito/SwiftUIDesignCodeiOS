@@ -1,6 +1,5 @@
 //
 // perfeito.dev
-// PIX: perfeito.dev@gmail.com
 //
 // SwiftUIDesignCodeiOSApp.swift
 // SwiftUIDesignCodeiOS
